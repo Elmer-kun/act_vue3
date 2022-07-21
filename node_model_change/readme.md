@@ -1,0 +1,1 @@
+此文件是汉化工作流的任务标题。将此文件修改合入node_modules\@bpmn-io\properties-panel\dist\index.esm.js即可。
